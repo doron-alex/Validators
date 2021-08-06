@@ -1,0 +1,19 @@
+{
+    "name": "adoronichev/Validators",
+    "description": "Some validators",
+    "authors": [
+        {
+            "name": "Alexander Doronichev",
+            "email": "alexander.doronichev@mail.ru"
+        }
+    ],
+    "require": {
+        "php": ">=7.4.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ADoronichev\\Validators\\": "src/"
+        }
+    }
+}
